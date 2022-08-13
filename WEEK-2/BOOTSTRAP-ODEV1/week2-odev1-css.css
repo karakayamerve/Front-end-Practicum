@@ -1,0 +1,36 @@
+.header {
+    color:red;
+    font-size:20px; 
+}
+.header-first{
+    background-color: #3f3f58;
+    
+}
+
+.text{
+color:white;
+}
+
+.p{
+    color:#A66CFF;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.pMain{
+    color:red;
+    font-size: 50px;
+    font-style:inherit;
+    font-weight: lighter;
+
+}
+.MusicDevice{
+    list-style-position: inside;
+    
+}
+.li_product_font{
+    font-weight: bold;
+    font-style: italic;
+}
+h3{
+    color:#BF9742
+}
